@@ -1,0 +1,12 @@
+{
+    "name": "app-misc",
+    "version-string": "1.0.0",
+    "description": "",
+    "dependencies": [
+      "cli11",
+      "eigen3",
+      "libigl",
+      "polyfem"
+    ]
+  }
+  
